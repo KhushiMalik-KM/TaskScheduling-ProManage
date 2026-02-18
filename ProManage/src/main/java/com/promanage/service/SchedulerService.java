@@ -95,7 +95,7 @@ public class SchedulerService {
 
         System.out.println("\n");
         System.out.println("  ╔══════════════════════════════════════════════════════════════════════╗");
-        System.out.println("  ║              📅  OPTIMAL WEEKLY SCHEDULE                            ║");
+        System.out.println("  ║                   OPTIMAL WEEKLY SCHEDULE                            ║");
         System.out.println("  ╠══════════╦═══════════════════════════════════════╦══════════════════╣");
         System.out.println("  ║   Day    ║  Project                              ║  Revenue (Rs.)   ║");
         System.out.println("  ╠══════════╬═══════════════════════════════════════╬══════════════════╣");
@@ -139,3 +139,4 @@ public class SchedulerService {
         System.out.println();
     }
 }
+
